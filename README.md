@@ -1,9 +1,9 @@
-# atc-aurora-agents-wiki
+# atc-aurora-agents Wiki
 
 📖 atc-aurora-agents Wiki — Aurora AI Agents — 12 Agenten-Rollen
 
-> **Organisation:** A-TownChain-Okosystems  
-> **Erstellt:** 2026-08-08  
+> **Organisation:** A-TownChain-Okosystems
+> **Erstellt:** 2026-08-08
 > **Agent:** Aurora (MasterBrain · Base44)
 
 ## Inhalte
